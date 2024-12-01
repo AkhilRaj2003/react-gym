@@ -1,0 +1,1 @@
+A gym application built with React for the frontend provides an interactive and user-friendly interface for managing fitness-related activities. ![Screenshot (34)](https://github.com/user-attachments/assets/dccf5d4a-07b6-429e-b31b-883c68c1c170)
